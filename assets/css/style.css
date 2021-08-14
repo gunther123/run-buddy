@@ -25,6 +25,11 @@
     color: #fce138;
 }
 
+.contact h3{
+    color: #fce138;
+    font-size: 32px;
+}
+
 .contact iframe{
     width: 400px;
     height: 400px;
@@ -39,9 +44,17 @@
     color: white;
 }
 
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+  }
+  
+  .contact-info a {
+    color: #fce138;
+  }
 
-
-}
 /* Contact Style End*/
 
 
