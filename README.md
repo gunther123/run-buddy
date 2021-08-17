@@ -11,4 +11,5 @@ A website that offers fitness training services.
 https://gunther123.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Steven Slocum
+### ©️2019 Run Buddy, Inc 
